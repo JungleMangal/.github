@@ -1,0 +1,21 @@
+name: ❓ Question
+description: Ask about how something works or how to do X.
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For general usage questions, please check the README and existing
+        issues first. If your repo has Discussions enabled, that's often
+        a better place than issues.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Even rough notes help us understand where you're stuck.
