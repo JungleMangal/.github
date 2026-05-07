@@ -14,10 +14,36 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🦜 [fang-kit](https://github.com/JungleMangal/fang-kit)
-`alpha`
+<td width="33%" align="center">
+<a href="https://github.com/JungleMangal/fang-kit">
+<img src="https://raw.githubusercontent.com/JungleMangal/.github/main/assets/fang-kit.svg" width="96" alt="fang-kit"/>
+<br/>
+<b>fang-kit</b>
+</a>
+<br/>
+<sub><code>alpha</code></sub>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/JungleMangal/git-talon">
+<img src="https://raw.githubusercontent.com/JungleMangal/.github/main/assets/git-talon.svg" width="96" alt="git-talon"/>
+<br/>
+<b>git-talon</b>
+</a>
+<br/>
+<sub><code>alpha</code></sub>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/JungleMangal/cobra-term">
+<img src="https://raw.githubusercontent.com/JungleMangal/.github/main/assets/cobra-term.svg" width="96" alt="cobra-term"/>
+<br/>
+<b>cobra-term</b>
+</a>
+<br/>
+<sub><code>alpha</code></sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 A developer's everyday toolkit. **70 self-contained tools** for the
 small jobs that pile up across a working day — hashing, encoding,
@@ -27,10 +53,7 @@ formatting, certificate decoding, JSON shaping, network math, and
 **Same tools, four surfaces:** desktop · CLI · MCP · web.
 
 </td>
-<td width="33%" valign="top">
-
-### ⚔️ [git-talon](https://github.com/JungleMangal/git-talon)
-`alpha`
+<td valign="top">
 
 A terminal-native git client built around how engineers actually
 work. Real-time diffs, conventional commit enforcement, and an
@@ -39,10 +62,7 @@ optional AI assistant (KeenAI) that knows your conventions.
 **For when the IDE git panel is too much and the CLI is too little.**
 
 </td>
-<td width="33%" valign="top">
-
-### 🐍 [cobra-term](https://github.com/JungleMangal/cobra-term)
-`alpha`
+<td valign="top">
 
 A fast SSH and terminal app with a built-in secrets vault.
 Auto-locks when you're idle, imports OpenSSH config, supports TOFU
